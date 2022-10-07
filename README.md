@@ -1,4 +1,4 @@
 #fitxero README
 ## subtitulo fitxero README
 ## ahghaha
-## ashhahahah
+## ara representa que té contingut significatiu
